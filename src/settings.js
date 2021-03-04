@@ -2,6 +2,10 @@ export const Settings = {
   BLOCKS_LINES: 4,
   BLOCKS_COLUMNS: 6,
   BLOCK_SIZE: 50,
+  SCREEN_WIDTH: 950,
+  FIELD_HEIGHT_WITH_MARGIN: 220,
+  FIELD_WIDTH_WITH_MARGIN: 320,
+  COLUMNS_NUMBER: 3
 }
 
 export const lines = [
